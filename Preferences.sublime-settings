@@ -23,15 +23,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"A File Icon",
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Babel",
-		"Emmet",
-		"ERB Snippets",
-		"Git",
-		"GitGutter",
-		"SCSS",
 		"Vintage"
 	],
 	"remember_open_files": false,
